@@ -1,3 +1,5 @@
+**BODY MASS INDEX DETECTION FROM FACIAL IMAGES**
+
 A Body Mass Index detection system from facial images the algorithm used is Random Forest Regressor. The images have been converted into face encodings to work well with Machine Learning algorithms. 
 
 The following libraries have been used for the project -
